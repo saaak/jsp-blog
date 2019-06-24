@@ -111,13 +111,13 @@
                     <a href="<%=context %>/servlet/CategoryServlet?action=getall">
                         <li>分类</li>
                     </a>
-                    <a href="https://changyan.kuaizhan.com/">
+                    <a href="#">
                         <li>评论</li>
                     </a>
-                    <a href="https://changyan.kuaizhan.com/">
+                    <a href="#">
                         <li>留言</li>
                     </a>
-                    <a href="<%=context %>/index.html">
+                    <a href="<%=context %>/index.jsp">
                         <li>返回首页</li>
                     </a>
                 </ul>
