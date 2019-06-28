@@ -1,7 +1,7 @@
 # jsp-blog
 jsp+servlet实现的个人博客系统
 
-演示站点：https://nichang.site/
+演示站点：https://www.jdywan.cn
 
 ### 技术栈
 `Jsp/Servlet` `Jquery`  `Bootstrap` `Mysql` `Ajax`  `Markdown`  `响应式`
@@ -17,6 +17,7 @@ jsp+servlet实现的个人博客系统
 ###### 后台：
 登录（验证码）
 写文章（markdown）
+爬取文章
 修改文章
 删除文章
 对分类进行增删改查
